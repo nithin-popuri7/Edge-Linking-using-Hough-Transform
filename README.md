@@ -7,19 +7,40 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the required modules.
+
+
 
 ### Step2:
-<br>
+Import the image to operate on.
+
+
 
 ### Step3:
-<br>
+Convert the imported image from BGR to GRAYSCALE.
+
+
 
 ### Step4:
-<br>
+Find the edges using canny edge detector and display the image.
+
+
 
 ### Step5:
-<br>
+Detect the points that form a line using hough transform.
+
+
+### Step6:
+Draw the lines on the image
+
+
+### Step7:
+Display the output.
+
+
+### Step8:
+End the program.
+
 
 
 ## Program:
