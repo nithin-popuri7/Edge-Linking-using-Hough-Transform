@@ -62,7 +62,6 @@ cv2.imshow("Gray Image",grayImage)
 
 
 
-
 # Find the edges in the image using canny detector and display
 
 cannyEdges = cv2.Canny(smoothImage,120,200)
